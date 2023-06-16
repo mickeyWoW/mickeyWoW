@@ -8,7 +8,7 @@
 <a href="https://gist.github.com/mickeyWoW"><img src="https://profile-counter.glitch.me/mickeyWoW/count.svg" alt="beautylouts :: mickeyWoW's Count" /></a>
 </p>
 
-# My Main Stack
+# Stack
 
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
@@ -141,5 +141,5 @@
 
 # Welcome
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mickeyWoW&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
-![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickeyWoW&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
+![Github stats](https://github-readme-stats.netlify.app/api?username=mickeyWoW&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
+![Github langs](https://github-readme-stats.netlify.app/api/top-langs/?username=mickeyWoW&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
