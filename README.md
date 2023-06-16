@@ -1,14 +1,14 @@
 <!--suppress HtmlDeprecatedAttribute -->
-#  Hello, Everyone #
+
+# Hello, Everyone
 
 <h3 align="center" style="color: #fff">💖Visit Count💖</h3>
 <br>
 <p align="center">
-<a href="https://gist.github.com/beautylotus"><img src="https://profile-counter.glitch.me/beautylotus/count.svg" alt="beautylouts :: beautylotus's Count" /></a>
+<a href="https://gist.github.com/mickeyWoW"><img src="https://profile-counter.glitch.me/mickeyWoW/count.svg" alt="beautylouts :: mickeyWoW's Count" /></a>
 </p>
 
-
-# My Main Stack #
+# My Main Stack
 
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
@@ -18,8 +18,8 @@
 <a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 
-
 # Languages & Framework
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -137,18 +137,9 @@
 </table>
 <br><br>
 
-
 </div>
 
-#  Welcome #
+# Welcome
 
 ![beautylotus's github stats](https://github-readme-stats.vercel.app/api?username=beautylotus&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
 ![beautylotus's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beautylotus&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
-
-
-
-
-
-
-
-
