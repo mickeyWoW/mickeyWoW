@@ -1,10 +1,10 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-# Hello, Everyone
+<!-- # Hello, Everyone -->
 
-<h3 align="center" style="color: #fff">💖Visit Count💖</h3>
+<h3 align="center" style="color: #fff; display: none;">💖Visit Count💖</h3>
 <br>
-<p align="center">
+<p align="center" style="display: none;">
 <a href="https://gist.github.com/mickeyWoW"><img src="https://profile-counter.glitch.me/mickeyWoW/count.svg" alt="beautylouts :: mickeyWoW's Count" /></a>
 </p>
 
