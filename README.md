@@ -5,7 +5,7 @@
 <h3 align="center" style="color: #fff; display: none;">💖Visit Count💖</h3>
 <br>
 <p align="center" style="display: none;">
-<a href="https://gist.github.com/mickeyWoW"><img src="https://profile-counter.glitch.me/mickeyWoW/count.svg" alt="beautylouts :: mickeyWoW's Count" /></a>
+<a href="https://gist.github.com/mickeyWoW"><img src="https://profile-counter.glitch.me/mickeyWoW/count.svg" alt="beautylouts :: mickeyWoW's Count" style="display: none;" /></a>
 </p>
 
 # Stack
