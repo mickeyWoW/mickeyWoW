@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://gist.github.com/mickeyWoW"><img src="https://profile-counter.glitch.me/mickeyWoW/count.svg" alt="beautylouts :: mickeyWoW's Count" /></a>
 </p>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mickeyWoW)
 
 # Stack
 
