@@ -7,8 +7,14 @@
 <p align="center">
 <a href="https://gist.github.com/mickeyWoW"><img src="https://profile-counter.glitch.me/mickeyWoW/count.svg" alt="beautylouts :: mickeyWoW's Count" /></a>
 </p>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mickeyWoW)
+<a href="https://github.com/mickeyWoW/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mickeyWoW&style=for-the-badge">
+</a>
 
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/mickeyWoW/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?account_id=1849174)
 # Stack
 
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
