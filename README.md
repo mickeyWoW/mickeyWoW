@@ -15,6 +15,12 @@
 [GitHub Profile Views Counter]: https://github.com/mickeyWoW/github-profile-views-counter
 
 ![](https://hit.yhype.me/github/profile?account_id=1849174)
+
+# Contact
+<a href="mickey970718@gmail.com">Email</a>
+<a href="@minitiger0801">Telegram</a>
+<a href="[mickey970718@gmail.com](https://teams.live.com/l/invite/FBAHNsVbbwvDXQkjAE?v=g1)">Teams</a>
+
 # Stack
 
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
